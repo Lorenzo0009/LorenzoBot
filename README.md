@@ -2,8 +2,11 @@
 **aaa**
 
 ## Comandos
-| :---: | :--- |
+
+```
 |**aaa** 
+
+```
 <br>aaaa<br>|aaa
 
 ## Experimentos
