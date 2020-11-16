@@ -3,7 +3,7 @@
 
 ## Comandos
 | :---: | :--- |
-|aaa|
+|**aaa**|
 ## Experimentos
 
 | Autor | Descrição |
