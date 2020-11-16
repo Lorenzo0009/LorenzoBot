@@ -1,5 +1,13 @@
 # LorenzoBot
-**aaa**
+
+## Experimentos
+
+| Autor | Descrição |
+| :---: | :--- |
+| <img class="imagem-1" src="https://anima-uploads.s3.amazonaws.com/projects/5fa84e566b2b519f9b204afe/releases/5fa84e5ee06687ac30fba9d7/img/imagem-1@1x.png" width="170"> |
+**Lorenzo#0009**
+<br>Olá, tenho 17 anos e estou começando na área de programação e estou com um mini projeto de criar meu bot para o discord e no futuro deixar ele publico para todos!.<br>
+| aaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 
 ## Comandos
 
@@ -57,10 +65,3 @@
 !l buy [comprar item]
 !l vender [para vender algum item!]
  ```
-## Experimentos
-
-| Autor | Descrição |
-| :---: | :--- |
-| <img class="imagem-1" src="https://anima-uploads.s3.amazonaws.com/projects/5fa84e566b2b519f9b204afe/releases/5fa84e5ee06687ac30fba9d7/img/imagem-1@1x.png" width="170"> |
-**Lorenzo#0009**
-<br>Olá, tenho 17 anos e estou começando na área de programação e estou com um mini projeto de criar meu bot para o discord e no futuro deixar ele publico para todos!.<br>
