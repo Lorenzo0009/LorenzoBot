@@ -21,19 +21,27 @@ Bot para o Discord
 Aqui tem uma lista basica de alguns dos comandos do bot (Logo mais sai uma lista mais atualizada!)
 
 ``` 
+## Utils
 !l c [Para entrar na dungeon e caçar]
 !l help [Para ver os comandos]
+!l clearchat (cc,clearall) - [Limpar o Chat]
+!l escolher [Escolha sua classe]
+!l classe (cl) [Ver sua classe]
+
+## Perfil
+!l profile (perfil) - [Veja seu perfil no bot]
+
+## Dinheiro
 !l addp [Adicionar dinheiro para uma pessoa especifica]
 !l addbal [Adicionar dinheiro para você]
-!l caçar [Entrar em uma caçada]
-!l cacar [Entrar em uma caçada]
-!l cl [Ver sua classe]
-!l classe [Ver sua classe]
 !l comprar [Comprar algum item]
-!l escolher [Escolha sua classe]
-!l clearchat [Limpar o Chat]
-!l cc [Limpar o Chat]
-!l clearall [Limpar o Chat]
+
+## Dungeons
+!l comprar [Comprar algum item]
+!l caçar (c,cacar)[Entrar em uma caçada]
+
+## Pescar 
+
 !l isca [Ver suas iscas]
 !l iscas [Ver suas iscas]
 !l ranking [Rank de dinheiro]
@@ -44,8 +52,6 @@ Aqui tem uma lista basica de alguns dos comandos do bot (Logo mais sai uma lista
 !l lvl [Ver seu level]
 !l p [Pescar, precisa comprar isca]
 !l pescar [Pescar, precisa comprar isca]
-!l profile [Veja seu perfil no bot]
-!l perfil [Veja seu perfil no bot]
 !l remp [Remover dinheiro de uma determinada pessoa]
 !l rembal [remover dinheiro]
 !l rm [remover dinheiro]
