@@ -20,7 +20,7 @@ Bot para o Discord
 
 Aqui tem uma lista basica de alguns dos comandos do bot (Logo mais sai uma lista mais atualizada!)
 
-``` 
+
 ## Utils
 ``` 
 !l c [Para entrar na dungeon e caçar]
@@ -32,7 +32,7 @@ Aqui tem uma lista basica de alguns dos comandos do bot (Logo mais sai uma lista
 ## Perfil
 ``` 
 !l profile (perfil) - [Veja seu perfil no bot]
-
+``` 
 ## Dinheiro
 ``` 
 !l addp [Adicionar dinheiro para uma pessoa especifica]
@@ -41,10 +41,12 @@ Aqui tem uma lista basica de alguns dos comandos do bot (Logo mais sai uma lista
 ``` 
 
 ## Dungeons
+``` 
 !l comprar [Comprar algum item]
 !l caçar (c,cacar)[Entrar em uma caçada]
-
+``` 
 ## Pescar 
+``` 
 
 !l isca [Ver suas iscas]
 !l iscas [Ver suas iscas]
