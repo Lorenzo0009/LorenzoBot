@@ -22,19 +22,23 @@ Aqui tem uma lista basica de alguns dos comandos do bot (Logo mais sai uma lista
 
 ``` 
 ## Utils
+``` 
 !l c [Para entrar na dungeon e caçar]
 !l help [Para ver os comandos]
 !l clearchat (cc,clearall) - [Limpar o Chat]
 !l escolher [Escolha sua classe]
 !l classe (cl) [Ver sua classe]
-
+``` 
 ## Perfil
+``` 
 !l profile (perfil) - [Veja seu perfil no bot]
 
 ## Dinheiro
+``` 
 !l addp [Adicionar dinheiro para uma pessoa especifica]
 !l addbal [Adicionar dinheiro para você]
 !l comprar [Comprar algum item]
+``` 
 
 ## Dungeons
 !l comprar [Comprar algum item]
