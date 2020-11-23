@@ -9,14 +9,13 @@ Bot para o Discord
 **Lorenzo#0009**| Criador do LorenzoBot
 | <img class="imagem-1" src="https://cdn.discordapp.com/attachments/774075777850540079/774075845143691274/download_14_1.png" width="170">|<br> Bot RPG para o discord!
 |LorenzoBot#9073|
-## Como jogar
 
+## Como jogar
 ``` Comandos inicais ```
 
 ## Comandos
 
 Aqui tem uma lista basica de alguns dos comandos do bot (Logo mais sai uma lista mais atualizada!)
-
 
 ## Utils
 ``` 
@@ -28,7 +27,6 @@ Aqui tem uma lista basica de alguns dos comandos do bot (Logo mais sai uma lista
 !l !l shop () [Comando para ver os items da loja]
 !l say (anunciar,warn,bc,broadcast)[criar um anuncio]
 !l shop [Comando para ver os items da loja]
-
 ``` 
 ## Personagem
 ``` 
@@ -37,7 +35,6 @@ Aqui tem uma lista basica de alguns dos comandos do bot (Logo mais sai uma lista
 !l xp [Ver seu xp]
 !l level [Ver seu level]
 !l lvl [Ver seu level]
-
 ``` 
 ## Dinheiro
 ``` 
@@ -52,9 +49,7 @@ Aqui tem uma lista basica de alguns dos comandos do bot (Logo mais sai uma lista
 !l buy [comprar item]
 !l vender [para vender algum item!]
 !l shop [Comando para ver os items da loja]
-
 ``` 
-
 ## Dungeons
 ``` 
 !l caçar (c,cacar)[Entrar em uma caçada]
@@ -65,6 +60,6 @@ Aqui tem uma lista basica de alguns dos comandos do bot (Logo mais sai uma lista
 !l p (pescar)[Pescar, precisa comprar isca]
 ``` 
 ## x1
-
+```
 !l lutar [Para lutar contra alguém!]
 ```
