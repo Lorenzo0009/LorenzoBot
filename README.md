@@ -14,9 +14,9 @@ Bot para o Discord
 ``` Comandos inicais ```
 
 ## Comandos
-
+```
 Aqui tem uma lista basica de alguns dos comandos do bot (Logo mais sai uma lista mais atualizada!)
-
+```
 ## Utils
 ``` 
 !l c [Para entrar na dungeon e caçar]
