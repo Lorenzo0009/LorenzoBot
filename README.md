@@ -13,9 +13,6 @@ Bot para o Discord
 
 ``` Comandos inicais ```
 
-
-
-
 ## Comandos
 
 Aqui tem uma lista basica de alguns dos comandos do bot (Logo mais sai uma lista mais atualizada!)
@@ -28,62 +25,46 @@ Aqui tem uma lista basica de alguns dos comandos do bot (Logo mais sai uma lista
 !l clearchat (cc,clearall) - [Limpar o Chat]
 !l escolher [Escolha sua classe]
 !l classe (cl) [Ver sua classe]
+!l !l shop () [Comando para ver os items da loja]
+!l say (anunciar,warn,bc,broadcast)[criar um anuncio]
+!l shop [Comando para ver os items da loja]
+
 ``` 
-## Perfil
+## Personagem
 ``` 
 !l profile (perfil) - [Veja seu perfil no bot]
+!l vida (life) [Ver sua vida]
+!l xp [Ver seu xp]
+!l level [Ver seu level]
+!l lvl [Ver seu level]
+
 ``` 
 ## Dinheiro
 ``` 
 !l addp [Adicionar dinheiro para uma pessoa especifica]
 !l addbal [Adicionar dinheiro para você]
 !l comprar [Comprar algum item]
+!l balance (b,money,coins,dinheiro,saldo)[ver seu dinheiro]
+!l versaldo (moneyde) [de uma pessoa especifica]
+!l remove (remp,rembal,rm,rem,rb)[Remover dinheiro de uma determinada pessoa]
+!l ranking (rank,lb,leaderboard)[Rank de dinheiro]
+!l compra [comprar item]
+!l buy [comprar item]
+!l vender [para vender algum item!]
+!l shop [Comando para ver os items da loja]
+
 ``` 
 
 ## Dungeons
 ``` 
-!l comprar [Comprar algum item]
 !l caçar (c,cacar)[Entrar em uma caçada]
 ``` 
 ## Pescar 
 ``` 
+!l isca (iscas) [Ver suas iscas]
+!l p (pescar)[Pescar, precisa comprar isca]
+``` 
+## x1
 
-!l isca [Ver suas iscas]
-!l iscas [Ver suas iscas]
-!l ranking [Rank de dinheiro]
-!l rank [Rank de dinheiro]
-!l lb [Rank de dinheiro]
-!l leaderboard [Rank de dinheiro]
-!l level [Ver seu level]
-!l lvl [Ver seu level]
-!l p [Pescar, precisa comprar isca]
-!l pescar [Pescar, precisa comprar isca]
-!l remp [Remover dinheiro de uma determinada pessoa]
-!l rembal [remover dinheiro]
-!l rm [remover dinheiro]
-!l rem [remover dinheiro]
-!l remove [remover dinheiro]
-!l rb [remover dinheiro]
-!l balance [ver seu dinheiro]
-!l b [ver seu dinheiro]
-!l money [ver seu dinheiro]
-!l coins [ver seu dinheiro]
-!l dinheiro [ver seu dinheiro]
-!l saldo [ver seu dinheiro]
-!l versaldo [de uma pessoa especifica]
-!l moneyde [de uma pessoa especifica]
-!l say [criar um anuncio]
-!l warn [criar um anuncio]
-!l bc [criar um anuncio]
-!l broadcast [criar um anuncio]
-!l anunciar [criar um anuncio]
-!l shop [Comando para ver os items da loja]
-!l loja [Comando para ver os items da loja]
-!l vida [Ver sua vida]
-!l life [Ver sua vida]
-!l xp [Ver seu xp]
 !l lutar [Para lutar contra alguém!]
-!l compra [comprar item]
-!l buy [comprar item]
-!l vender [para vender algum item!]
- ```
+```
